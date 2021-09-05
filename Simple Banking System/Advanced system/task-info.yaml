@@ -423,5 +423,9 @@ files:
         BankingSystem('banking.banking').run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/109/stages/594/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Sun, 05 Sep 2021 08:45:13 UTC
 record: -1
